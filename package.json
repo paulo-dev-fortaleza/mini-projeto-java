@@ -1,0 +1,15 @@
+{
+  "name": "inicio-projeto2",
+  "version": "1.0.0",
+  "main": "idex.js",
+  "scripts": {
+    "api": "npx json-server api.json --watch --port3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
